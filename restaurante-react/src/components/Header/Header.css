@@ -1,0 +1,10 @@
+.App-header {
+    background-color: #3a89b4;
+    min-height: 20vh;
+    font-size: 62px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(182, 157, 74);
+    justify-content: flex-start;
+    padding: 40px 40px 0px 0px;
+    
+  }
